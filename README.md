@@ -6,3 +6,9 @@ Running AlphaFold3 involves a simple json format input file and few parameter sp
 This session is intended for users with experience working in a Linux command-line environment and submitting jobs on Alpine or a similar HPC system. Participants should have a Research Computing Account prior to the start of the training if they wish to try hands-on examples.
 
 _What is an RC Short Course?_ A training that provides an in-depth understanding of a concept, system, or tool. You can expect to leave a "Short Course" with a solid grasp of the topic
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
